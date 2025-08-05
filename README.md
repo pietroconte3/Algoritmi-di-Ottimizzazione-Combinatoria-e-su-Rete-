@@ -18,3 +18,6 @@ Algoritmo ispirato alla tempra dei metalli: accetta anche soluzioni peggiorative
 - `sklearn.cluster.KMeans`
 - `numpy`, `matplotlib`
 - `time` per la misurazione delle prestazioni
+
+Professore: Maurizio Boccia  
+Università Federico II – A.A. 2024-2025

@@ -1,4 +1,4 @@
-# Algoritmi-di-Ottimizzazione-Combinatoria-e-su-Rete-
+# Algoritmi_di_Ottimizzazione_Combinatoria_e_su_Rete
 Algoritmi di clustering applicati a grafi: confronto tra K-Means, Ricerca Locale e Simulated Annealing per l'ottimizzazione della partizione dei nodi su istanze di benchmark
 
 Questo progetto nasce come lavoro per il corso di "Algoritmi di Ottimizzazione Combinatoria e su Rete" (A.A. 2024-2025) e affronta il problema del clustering su grafi, proponendo e confrontando tre diverse tecniche euristiche: **K-Means**, **Ricerca Locale** e **Simulated Annealing**.
